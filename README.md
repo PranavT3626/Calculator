@@ -24,7 +24,7 @@ You can view a live demo of the calculator [here](#).
 
 ## Screenshots
 
-![Calculator](/screenshots/calculator.png)
+![Calculator](Screenshot(52).png)
 
 ## Contributing
 
