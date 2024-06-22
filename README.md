@@ -20,7 +20,7 @@ Welcome to the Scientific Calculator repository! This calculator provides advanc
 
 ## Demo
 
-You can view a live demo of the calculator [here](#).
+You can view a live demo of the calculator [here](https://pranavt3626.github.io/Calculator/).
 
 ## Screenshots
 
