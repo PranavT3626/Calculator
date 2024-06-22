@@ -36,7 +36,5 @@ Contributions are welcome! If you have any ideas for improvement or find any bug
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-
-- Thanks to [OpenAI](https://openai.com) for providing guidance and inspiration.
 - Special thanks to all contributors and supporters of this project.
 
