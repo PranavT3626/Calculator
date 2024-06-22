@@ -24,7 +24,7 @@ You can view a live demo of the calculator [here](https://pranavt3626.github.io/
 
 ## Screenshots
 
-![Calculator](Screenshot(52).png)
+![Calculator](Calculator/Screenshot(52).png)
 
 ## Contributing
 
